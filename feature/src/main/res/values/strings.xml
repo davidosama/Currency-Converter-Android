@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textviewFrom">From</string>
+    <string name="textviewTo">To</string>
+    <string name="textviewValue">Value</string>
+    <string name="textviewConvert">Convert</string>
+    <string name="textviewResult">Results</string>
+    <string name="editTextValue">Enter a value</string>
+    <string name="buttonConvert">Convert</string>
+    <string name="spinnerentryEGP">EGP</string>
+    <string name="spinnerentryUSD">USD</string>
+</resources>
